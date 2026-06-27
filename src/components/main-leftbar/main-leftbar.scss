@@ -1,0 +1,9 @@
+
+.main-leftbar {
+  position: fixed;
+  inset: var(--space-s) auto var(--space-s) var(--space-s);
+  width: 75px;
+  background-color: var(--color-grey-container);
+  border: solid 1px var(--color-grey-border);
+  border-radius: var(--border-radius-m);
+}
