@@ -2,8 +2,12 @@
 .main-leftbar {
   position: fixed;
   inset: var(--space-s) auto var(--space-s) var(--space-s);
-  width: 75px;
+  padding: 0 var(--space-m);
   background-color: var(--color-grey-container);
   border: solid 1px var(--color-grey-border);
   border-radius: var(--border-radius-m);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--space-xxl);
 }

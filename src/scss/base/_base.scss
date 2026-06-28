@@ -1,0 +1,15 @@
+.icon-size-l {
+    height: var(--space-l);
+    width: var(--space-l);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    border: solid 2px red;
+    height: 100dvh;
+    padding-left: 70px;
+    margin: 0;
+}
