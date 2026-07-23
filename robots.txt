@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pramoli.github.io/sitemap.xml
